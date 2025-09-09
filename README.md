@@ -33,6 +33,7 @@ El proyecto utiliza un dataset médico sobre **predicción de accidentes cerebro
 completo_final/
 ├── 📄 ag_feature_selection.py          # Algoritmo genético para selección de características
 ├── 📄 ag_hyperparameter_optimization.py # Algoritmo genético para optimización de hiperparámetros
+├── 📄 ag_neuroevolution.py # Algoritmo genético para optimización de hiperparámetros
 ├── 📄 convertir.py                     # Script de conversión de datos
 ├── 📄 dataset_1_convertido.csv         # Dataset procesado y binarizado
 ├── 📄 dataset_reducido_ag.csv          # Dataset con características seleccionadas
