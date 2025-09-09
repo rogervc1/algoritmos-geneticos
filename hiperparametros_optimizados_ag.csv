@@ -1,0 +1,2 @@
+C,penalty,solver,max_iter,f1_score,algoritmo
+1.0,l2,saga,500,0.7455122655122655,LogisticRegression
